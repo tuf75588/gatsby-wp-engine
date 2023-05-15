@@ -26,19 +26,19 @@ const data = {
       id: 0,
       navItemType: "Link",
       href: "#!",
-      text: "Products",
+      text: "Nav Item One",
     },
     {
       id: 1,
       navItemType: "Link",
       href: "#!",
-      text: "Pricing",
+      text: "Nav Item Two",
     },
     {
       id: 2,
       navItemType: "Link",
       href: "#!",
-      text: "About",
+      text: "Nav Item Three",
     },
     {
       id: 3,
@@ -49,7 +49,7 @@ const data = {
   ],
   cta: {
     href: "#!",
-    text: "Sign Up",
+    text: "Get Started",
   },
 }
 

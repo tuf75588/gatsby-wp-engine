@@ -6,10 +6,10 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://gatsbywordpresshomepage.gatsbyjs.io/",
+    siteUrl: "https://dmwdirect.com",
     title: "Gatsby WordPress Homepage Starter",
     author: `Gatsby`,
-    description: "A Gatsby Starter for building homepages with WordPress",
+    description: "A WordPress Homepage",
   },
   plugins: [
     {
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "Gatsby Starter WordPress Homepage",
+        name: "Gatsby WordPress Homepage",
         short_name: "Gatsby",
         start_url: "/",
         // These can be imported once ESM support lands
